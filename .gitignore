@@ -1,0 +1,29 @@
+# Build
+build/
+target/
+out/
+
+# Eclipse
+/.settings/
+.classpath
+.project
+
+# IDEs
+/.idea/
+*.iml
+.vscode/
+
+# Java artifacts
+*.class
+*.war
+*.jar
+
+# Local configs / secrets
+application.properties
+.env
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
